@@ -26,12 +26,8 @@ The two modules address different failure modes (long-horizon drift vs. mid-clip
 
 The code is being prepared for release. The repository will include:
 
-- [ ] Inference pipeline (Veo 3.1 / VBVR-Wan2.2 / Cosmos backends)
-- [ ] VLM planner and verifier prompts
-- [ ] Active-planning runner scripts
-- [ ] Evaluation on Gen-ViRe and VBVR-Bench
-- [ ] Environment / API-key setup instructions
-- [ ] Reproduction scripts for the main tables
+- [ ] Inference pipeline
+- [ ] Evaluation
 
 ## Citation
 
