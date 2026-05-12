@@ -3,7 +3,7 @@
 Official code release for **CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models**.
 
 - Project page: <https://joow0n-kim.github.io/collabvr-project-page/>
-- Paper: TBD (arXiv link forthcoming)
+- Paper: <https://arxiv.org/abs/2605.08735>
 
 ## Overview
 
