@@ -1,0 +1,9 @@
+torch>=2.3
+diffusers @ git+https://github.com/huggingface/diffusers.git
+transformers>=4.45
+accelerate>=0.34
+opencv-python-headless>=4.10
+Pillow>=10.0
+numpy>=1.26
+google-genai>=0.4
+datasets>=2.20
